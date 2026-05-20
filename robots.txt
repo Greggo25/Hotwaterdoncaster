@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hotwatergreensborough.com.au/sitemap.xml
+Sitemap: https://hotwaterdoncaster.com.au/sitemap.xml
